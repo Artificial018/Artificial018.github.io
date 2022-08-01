@@ -5,6 +5,9 @@
 - Route 66 - Skate 1 Edit
 
 #### Socials
+- Youtube - Artificial - https://www.youtube.com/channel/UCJeZ9oHUiu-fBXm8rWHf_Hg
+- Twitch - Artifishy01 - https://m.twitch.tv/artifishy01/home
+- 
 
 ```markdown
 Syntax highlighted code block
