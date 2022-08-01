@@ -1,9 +1,5 @@
 ## Artificial
 
-You can use the [editor on GitHub](https://github.com/Artificial018/Artificial018.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Upcoming Videos 
 - Got It On Me - Skate 3 Edit
 - Route 66 - Skate 1 Edit
