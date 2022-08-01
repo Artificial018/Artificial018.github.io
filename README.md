@@ -5,9 +5,9 @@ You can use the [editor on GitHub](https://github.com/Artificial018/Artificial01
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Upcoming Videos 
-Got It On Me | Skate 3 Edit
-Route 66 | Skate 1 Edit
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Got It On Me | Skate 3 Edit
+- Route 66 | Skate 1 Edit
+
 
 ```markdown
 Syntax highlighted code block
