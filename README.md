@@ -1,9 +1,9 @@
 ## Artificial
-### Socials 
-#### Upcoming Videos 
+ 
+### Upcoming Videos 
 - Got It On Me - Skate 3 Edit
 - Route 66 - Skate 1 Edit
-
+#### Socials
 
 ```markdown
 Syntax highlighted code block
