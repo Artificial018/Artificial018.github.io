@@ -7,7 +7,7 @@
 - Losing Interest - Forza Horizon 4 Montage
 
 #### Socials
-- Youtube - Artificial - https://www.youtube.com/channel/UCJeZ9oHUiu-fBXm8rWHf_Hg
+- Youtube - [Artificial] - (https://www.youtube.com/channel/UCJeZ9oHUiu-fBXm8rWHf_Hg)
 - Twitch - Artifishy01 - https://m.twitch.tv/artifishy01/home
 - Discord Server - https://discord.gg/jaQMKGfH7F 
 
