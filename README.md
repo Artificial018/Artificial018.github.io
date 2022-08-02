@@ -8,8 +8,8 @@
 
 #### Socials
 - Youtube - [Artificial](https://www.youtube.com/channel/UCJeZ9oHUiu-fBXm8rWHf_Hg)
-- Twitch - Artifishy01 - https://m.twitch.tv/artifishy01/home
-- Discord Server - https://discord.gg/jaQMKGfH7F 
+- Twitch - [Artifishy01](https://m.twitch.tv/artifishy01/home)
+- Discord Server - [Artico](https://discord.gg/jaQMKGfH7F) 
 
 ```markdown
 Syntax highlighted code block
