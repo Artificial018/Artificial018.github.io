@@ -14,7 +14,7 @@
 ```markdown
 Syntax highlighted code block
 
-[Image](file:///home/oppy/Downloads/christmas-discord-pfp-7.gif)
+![Image](file:///home/oppy/Downloads/christmas-discord-pfp-7.gif)
 # Header 1
 ## Header 2
 ### Header 3
