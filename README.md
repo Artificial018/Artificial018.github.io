@@ -11,10 +11,10 @@
 - Twitch - [Artifishy01](https://m.twitch.tv/artifishy01/home)
 - Discord Server - [Artico](https://discord.gg/jaQMKGfH7F) 
 
+![Image](file:///home/oppy/Downloads/christmas-discord-pfp-7.gif)
 ```markdown
 Syntax highlighted code block
 
-![Image](file:///home/oppy/Downloads/christmas-discord-pfp-7.gif)
 # Header 1
 ## Header 2
 ### Header 3
