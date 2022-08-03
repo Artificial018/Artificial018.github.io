@@ -1,6 +1,7 @@
 ## Artificial
  
 ### Upcoming Videos 
+- Minecraft 20 Days But I Can't Use My Inventory 
 - Got It On Me - Skate 3 Edit
 - Route 66 - Skate 1 Edit
 - Beating The First Level Of Every Super Mario Bros Except Wii U and Switch
