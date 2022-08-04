@@ -1,10 +1,9 @@
 ## Artificial
  
 ### Upcoming Videos 
+- Got It On Me - Skate 3 Edit Coming on August 3rd 
 - Minecraft 20 Days But I Can't Use My Inventory 
-- Got It On Me - Skate 3 Edit
 - Route 66 - Skate 1 Edit
-- Beating The First Level Of Every Super Mario Bros Except Wii U and Switch
 - Losing Interest - Forza Horizon 4 Montage
 - Ransom - Skate 3 Edit 
 
