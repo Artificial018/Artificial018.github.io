@@ -1,13 +1,11 @@
 ## Artificial
  
 ### Upcoming Videos 
-- Ransom - Skate 3 Edit - Coming Out Augest 7th
-- Minecraft 20 Days But I Can't Use My Inventory 
-- Route 66 - Skate 1 Edit
-- Losing Interest - Forza Horizon 4 Montage
+- Trying Spider-Man Remastered Mods
+- Try Minecraft KnockOffs
+- Minecraft 20 Days But I Can't Use My Inventory - Maybe
 
 #### Videos Posted In Last 14 Days 
-- Got It On Me - Skate 3 Edit 
 
 ##### Socials
 - Youtube - [Artificial](https://www.youtube.com/channel/UCJeZ9oHUiu-fBXm8rWHf_Hg)
