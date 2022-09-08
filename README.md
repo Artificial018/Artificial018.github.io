@@ -2,7 +2,8 @@
  
 ### Upcoming Videos 
 - Trying Spider-Man Remastered Mods
-- Try Minecraft KnockOffs
+- Trying Minecraft KnockOffs
+- Making a game but I don't know how to code
 - Minecraft 20 Days But I Can't Use My Inventory - Maybe
 
 #### Videos Posted In Last 14 Days 
