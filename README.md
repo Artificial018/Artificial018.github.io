@@ -8,6 +8,12 @@
 
 #### Videos Posted In Last 14 Days 
 
+##### Stream Ideas 
+
+- Uncharted Stream
+- Raft Stream
+- 
+
 ##### Socials
 - Youtube - [Artificial](https://www.youtube.com/channel/UCJeZ9oHUiu-fBXm8rWHf_Hg)
 - Twitch - [Artifishy01](https://m.twitch.tv/artifishy01/home)
